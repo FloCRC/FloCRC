@@ -15,7 +15,7 @@ You can see a sample of my work on my <a href="https://portfolio.2024-florentc.d
 You can reach me at florentcuer@gmail.com or through <a href="https://www.linkedin.com/in/florent-cuer/">LinkedIn</a>.
 
 ### Currently Learning
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) I'm currently learning about how to use Firebase by making a Chat Application using Google Authentication.
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) I've been learning how to conver ReactJS projects to Typescript using my timesheet manager app, and now I'm learning TypeScript with new projects.
 
 ## Langues and Tech
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
